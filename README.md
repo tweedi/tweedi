@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tweedi
-- 👀 I’m interested in VideoGames, Angular and Python
-- 🧠 I mainly code in TypeScript, C# and Python
-- 🌱 I’m currently learning how to work with Push-Architecture in Angular
-- 📫 How to reach me: @tweedi_ (Twitter), benedikt@familie-lienert.de (Mail), benedikt.lienert@imbus.de (Business Mail)
+- 👀 I’m interested in VideoGames, Scripts that improve my day to day life and Test Automation
+- 🧠 I mainly code in TypeScript and python for personal projects and C# at work
+- 📫 How to reach me: @tweedi_ (Twitter), kontakt@tweedi.de (Mail), benedikt.lienert@imbus.de (Business Mail)
